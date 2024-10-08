@@ -61,7 +61,7 @@ Under Source, choose the main branch (or master if that's your default) and clic
 Once this is done, your game will be live on GitHub Pages, and you can share the link with anyone!
 
 Live Demo
-You can play the game here: Memory Game Demo
+You can play the game here:[https://memory-game-lac-xi.vercel.app/] Memory Game Demo
 
 Contributing
 If you'd like to contribute or report any issues, feel free to:
