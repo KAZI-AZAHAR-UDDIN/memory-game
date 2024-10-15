@@ -18,8 +18,6 @@ Technologies Used
 HTML5: For the structure of the game.
 CSS3: For styling and layout.
 JavaScript: For game logic, handling clicks, shuffling cards, and game functionality.
-Screenshots
-<p align="center"> <img src="https://via.placeholder.com/400x300.png?text=Memory+Game+Screenshot" alt="Memory Game Screenshot" width="400px"/> </p>
 
 ## How to Play Locally
 1. Clone the Repository
