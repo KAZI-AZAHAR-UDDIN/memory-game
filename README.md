@@ -32,15 +32,6 @@ cd memory-game
 Simply open the index.html file in your browser to start playing:
 open index.html
 
-## Project Structure
-
-memory-game/
-│
-├── index.html        # Main HTML file
-├── style.css         # CSS file for styling the game
-├── script.js         # JavaScript file for game logic
-└── README.md         # Project documentation (this file)
-
 ## Deployment
 You can deploy this project to GitHub Pages in a few simple steps:
 
